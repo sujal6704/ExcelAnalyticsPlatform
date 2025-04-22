@@ -11,7 +11,6 @@ import {
 import { useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { Link } from "react-router-dom";
-import { h1 } from "framer-motion/client";
 
 const SidebarItems = [
   {
