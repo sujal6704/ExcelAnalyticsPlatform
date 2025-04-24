@@ -37,7 +37,7 @@ integrate AI APIs to provide smart insights or summary reports from the uploaded
     </td>
     <td align="center">
       <a href="https://github.com/Dusanapudivineetha123">
-        <img src="https://github.com/Dusanapudivineetha123" width="100" style="border-radius: 50%;" alt="Dusanapudivineetha123"/>
+        <img src="https://github.com/Dusanapudivineetha123.png" width="100" style="border-radius: 50%;" alt="Dusanapudivineetha123"/>
         <br />
         <sub><b>Dusanapudivineetha</b></sub>
       </a>
