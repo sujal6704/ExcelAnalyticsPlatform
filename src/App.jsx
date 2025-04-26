@@ -1,9 +1,12 @@
-import { useState } from 'react'
+
 import {Routes, Route} from 'react-router-dom'
 import Dashboard from './pages/Dashboard'
 import Uploads from './pages/Uploads'
 import Sidebar from './components/Sidebar'
 import Topbar from './components/Topbar'
+import LoginPage from './pages/loginpage'
+import SignupPage from './pages/signuppage'
+
 
 function App() {
 
@@ -23,6 +26,8 @@ function App() {
               <Route path='/' element={<Dashboard />} />
               <Route path='/uploads' element={<Uploads />} />
               <Route path='/profile' element={<div>Profile Page</div>} />
+              <Route path='/loginpage' element={<LoginPage/>} />
+              <Route path='/signuppage' element={<SignupPage/>} />
             </Routes>
           </div>
         </div>
