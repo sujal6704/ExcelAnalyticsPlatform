@@ -1,6 +1,6 @@
 import React from "react";
 
-const LoginPage = () => {
+const Login = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 to-gray-800">
       <div className="bg-gray-800 shadow-lg rounded-2xl p-8 w-full max-w-md">
@@ -33,7 +33,7 @@ const LoginPage = () => {
         </form>
         <p className="text-gray-400 text-center mt-4 text-sm">
           Don't have an account?{" "}
-          <a href="/signup" className="text-blue-400 hover:underline">
+          <a href="/auth/signup" className="text-blue-400 hover:underline">
             Sign up
           </a>
         </p>
@@ -42,4 +42,4 @@ const LoginPage = () => {
   );
 };
 
-export default LoginPage;
+export default Login;
