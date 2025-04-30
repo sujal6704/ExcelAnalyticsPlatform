@@ -2,6 +2,7 @@ import { useState } from 'react'
 import {Routes, Route} from 'react-router-dom'
 import Dashboard from './pages/Dashboard'
 import Uploads from './pages/Uploads'
+import ProfilePage from './pages/ProfilePage'
 import Sidebar from './components/Sidebar'
 import Topbar from './components/Topbar'
 
@@ -22,7 +23,7 @@ function App() {
             <Routes>
               <Route path='/' element={<Dashboard />} />
               <Route path='/uploads' element={<Uploads />} />
-              <Route path='/profile' element={<div>Profile Page</div>} />
+              <Route path='/profile' element={<ProfilePage/>} />
             </Routes>
           </div>
         </div>
