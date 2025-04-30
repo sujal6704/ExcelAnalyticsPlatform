@@ -27,7 +27,7 @@ function App() {
             <Routes>
               <Route path='/' element={<Dashboard />} />
               <Route path='/uploads' element={<Uploads />} />
-              <Route path='/profile' element={<ProfilePage/>} 
+              <Route path='/profile' element={<ProfilePage />} />
               <Route path='/auth/login' element={<Login/>} />
               <Route path='/auth/signup' element={<Signup/>} />
 
