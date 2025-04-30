@@ -1,6 +1,7 @@
 import {Routes, Route, useLocation} from 'react-router-dom'
 import Dashboard from './pages/Dashboard'
 import Uploads from './pages/Uploads'
+import ProfilePage from './pages/ProfilePage'
 import Sidebar from './components/Sidebar'
 import Topbar from './components/Topbar'
 import Login from './pages/loginpage'
@@ -26,9 +27,10 @@ function App() {
             <Routes>
               <Route path='/' element={<Dashboard />} />
               <Route path='/uploads' element={<Uploads />} />
-              <Route path='/profile' element={<div>Profile Page</div>} />
+              <Route path='/profile' element={<ProfilePage/>} 
               <Route path='/auth/login' element={<Login/>} />
               <Route path='/auth/signup' element={<Signup/>} />
+
             </Routes>
           </div>
         </div>
