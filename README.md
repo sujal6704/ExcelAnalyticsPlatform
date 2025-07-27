@@ -124,26 +124,23 @@ GitHub: sujal6704
     <td align="center">
       <a href="https://github.com/Dinesharekar15">
         <img src="https://avatars.githubusercontent.com/u/87654321?v=4" width="100px;" alt="Dinesh Arekar"/><br />
-        <sub><b>Teammate 1</b></sub>
+        <sub><b>Dinesh Arekar</b></sub>
       </a>
       <br />
-      <small>Frontend Developer</small>
     </td>
     <td align="center">
       <a href="https://github.com/MShriK17">
         <img src="https://avatars.githubusercontent.com/u/11223344?v=4" width="100px;" alt="Mahesh kumkar"/><br />
-        <sub><b>Teammate 2</b></sub>
+        <sub><b>Mahesh Kumkar</b></sub>
       </a>
       <br />
-      <small>Backend Developer</small>
     </td>
    <td align="center">
       <a href="https://github.com/Prasen8">
         <img src="https://avatars.githubusercontent.com/u/11223344?v=4" width="100px;" alt="Prasen Nimje"/><br />
-        <sub><b>Teammate 2</b></sub>
+        <sub><b>Prasen Nimje</b></sub>
       </a>
       <br />
-      <small>Backend Developer</small>
     </td>
   </tr>
 </table>
