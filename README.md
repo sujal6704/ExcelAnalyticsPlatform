@@ -107,43 +107,6 @@ GitHub: sujal6704
 
 
 
-<hr>
-
-<h2>🤝 Contributors</h2>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/sujal6704">
-        <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="100px;" alt="Sujal Charpe"/><br />
-        <sub><b>Sujal Charpe</b></sub>
-      </a>
-      <br />
-      <small>Full Stack Developer</small>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Dinesharekar15">
-        <img src="https://avatars.githubusercontent.com/u/87654321?v=4" width="100px;" alt="Dinesh Arekar"/><br />
-        <sub><b>Dinesh Arekar</b></sub>
-      </a>
-      <br />
-    </td>
-    <td align="center">
-      <a href="https://github.com/MShriK17">
-        <img src="https://avatars.githubusercontent.com/u/11223344?v=4" width="100px;" alt="Mahesh kumkar"/><br />
-        <sub><b>Mahesh Kumkar</b></sub>
-      </a>
-      <br />
-    </td>
-   <td align="center">
-      <a href="https://github.com/Prasen8">
-        <img src="https://avatars.githubusercontent.com/u/11223344?v=4" width="100px;" alt="Prasen Nimje"/><br />
-        <sub><b>Prasen Nimje</b></sub>
-      </a>
-      <br />
-    </td>
-  </tr>
-</table>
 
 
  
